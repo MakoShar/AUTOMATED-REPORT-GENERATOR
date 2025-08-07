@@ -1,0 +1,21 @@
+Date,Product,Sales,Revenue,Region,Sales_Rep
+2024-01-15,Laptop,25,37500.00,North,John Smith
+2024-01-16,Desktop,15,22500.00,South,Alice Johnson
+2024-01-17,Tablet,40,20000.00,East,Bob Wilson
+2024-01-18,Smartphone,60,36000.00,West,Carol Davis
+2024-01-19,Laptop,30,45000.00,North,John Smith
+2024-01-20,Desktop,20,30000.00,South,Alice Johnson
+2024-01-21,Tablet,35,17500.00,East,Bob Wilson
+2024-01-22,Smartphone,55,33000.00,West,Carol Davis
+2024-01-23,Laptop,28,42000.00,North,John Smith
+2024-01-24,Desktop,18,27000.00,South,Alice Johnson
+2024-01-25,Tablet,42,21000.00,East,Bob Wilson
+2024-01-26,Smartphone,65,39000.00,West,Carol Davis
+2024-01-27,Laptop,32,48000.00,North,John Smith
+2024-01-28,Desktop,22,33000.00,South,Alice Johnson
+2024-01-29,Tablet,38,19000.00,East,Bob Wilson
+2024-01-30,Smartphone,58,34800.00,West,Carol Davis
+2024-02-01,Laptop,35,52500.00,North,John Smith
+2024-02-02,Desktop,25,37500.00,South,Alice Johnson
+2024-02-03,Tablet,45,22500.00,East,Bob Wilson
+2024-02-04,Smartphone,70,42000.00,West,Carol Davis
